@@ -1,4 +1,4 @@
-import { ROUTES } from '@/util/routes'
+import { ROUTES } from '@/features/dashboard/lib/routes'
 import Link from 'next/link'
 import React from 'react'
 

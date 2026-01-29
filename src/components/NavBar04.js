@@ -1,6 +1,6 @@
 "use client";
 
-import { ROUTES } from "@/util/routes";
+import { ROUTES } from "@/features/dashboard/lib/routes";
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import NavLinks from "./navs/NavLinks";
